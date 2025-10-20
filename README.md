@@ -1,4 +1,4 @@
-﻿# Game Eggs (Standalone)
+# Game Eggs (Standalone)
 
 #### This is a collection of Eggs for game servers that are standalone in their installation (ie. don't require 3rd party tools like SteamCMD, etc).
 
@@ -21,6 +21,7 @@
 * [Among Us](among_us)
   * [Impostor Server](among_us/impostor_server)
   * [CrewLink Server](among_us/crewlink_server)
+* [Archean](archean)
 * [BeamNG.drive](beamng)
   * [BeamMP Server](beamng/beammp)
   * [KissMP](beamng/kissmp)
@@ -83,8 +84,10 @@
   * [tModLoader](terraria/tmodloader)
   * [TShock](terraria/tshock)
   * [Vanilla](terraria/vanilla)
+* [The Battle For Wesnoth](thebattleforwesnoth)
 * [Urban Terror](urbanterror)
 * [Veloren](veloren)
+* [Venice Unleashed](venice_unleashed)
 * [Vintage Story](vintage_story)
 * [Wolfenstein: Enemy Territory](wolfenstein_enemy_territory)
   * [ET: Legacy](wolfenstein_enemy_territory/etlegacy)
